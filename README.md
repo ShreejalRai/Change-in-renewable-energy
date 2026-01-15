@@ -29,5 +29,5 @@ I started by looking for countries with the oldest recorded data for renewable e
 
 Then, I looked for resources where I could get said data. This was harder than expected as I everything I came across was locked behind a paywall unitl I asked a friend who told me about a website called ["Our world in data"] (https://ourworldindata.org/), I would find all necessary data in the format of an excel file for not just Scandanavian countries but the whole world. <br><br>
 
-This started the ETL "(Extract, Transform and Load)" process
+This started the ETL (Extract, Transform and Load) process
 
