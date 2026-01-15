@@ -1,7 +1,7 @@
 # :chart_with_upwards_trend: Change-in-renewable-energy
 An interactive dashboard to show changes in different forms of renewable energy found in Norway. 
 
-:star: Tools
+:star: Tools---
 * Power BI
 * Excel
 
