@@ -5,7 +5,8 @@ An interactive dashboard to show changes in different forms of renewable energy 
 * Power BI
 * Excel
 
-:bar_chart: Description of Analysis. <br>
+:bar_chart: Description of Analysis. <br><br>
+Here is what the different analysis shows you.
 * First analysis shows renewable share of four Scandinavian countries.
 * Second analysis shows change in renewable energy sources for Norway from 2005 - 2023. 
 * Third analysis compares Norways renewable energy generation to it's three Scandanavian neighbours.
