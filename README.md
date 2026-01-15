@@ -14,11 +14,13 @@ Here is what the different analysis shows you.
 * Third analysis compares Norways renewable energy generation to it's three Scandanavian neighbours.
 * Fourth analysis is a prediction/forecast for Norway's energy generation to the year of 2030.
 
-:dart: Slicer <br><br>
+:dart: Slicer <br>
+---
 The slicer can be used to change between the four available Scandanavian countries. The slicer only changes values you see in the first analysis.<br> 
 * Denmark
 * Finland
 * Sweden
-* Norway <br>
+* Norway
+---
 
 
