@@ -39,6 +39,7 @@ The next step was to choose the appropriate chart, data and formulas to accurate
 * Data: Based on the question I needed to answer I selected the relevant country, time, and renewable energy variables which were then aggregated to support comparison and trend analysis.
 * Formulas: I created calculated measures to aggregate total electricity generation, separate renewable and non-renewable output, and calculate the share of renewables in total electricity production, enabling clear comparison across countries and over time.
 
+After creating the dashboard, I wrote a report that addressed the main analytical questions by interpreting the visualisations and translating the results into clear <br> insights. 
 
 
 
