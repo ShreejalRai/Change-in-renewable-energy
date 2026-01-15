@@ -23,7 +23,7 @@ The slicer can be used to change between the four available Scandanavian countri
 * Sweden
 * Norway
 
-:man_cook: The process <br>
+:man_cook: The Process <br>
 ---
 I started by looking for countries with the oldest recorded data for renewable energy so I had ample of data to work with, this led me to Norway. <br> <br>
 
@@ -43,7 +43,10 @@ After creating the dashboard, I wrote a report that addressed the main analytica
 
 :books: What I Learned
 ---
-
+:seedling: Overall Growth
+---
+:runner: Running the Project
+---
 
 
 
