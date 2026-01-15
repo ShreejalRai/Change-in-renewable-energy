@@ -1,5 +1,6 @@
 # :chart_with_upwards_trend: Change-in-renewable-energy
-An interactive dashboard to show changes in different forms of renewable energy found in Norway. 
+An interactive dashboard to show changes in different forms of renewable energy found in Norway. <br>
+The report has detailed information about the findings of this project along with Data sources, ETL, structure and DAX formulas.
 
 :star: Tools
 ---
