@@ -31,8 +31,13 @@ Then, I looked for resources where I could get said data. This was harder than e
 
 This started the ETL (Extract, Transform and Load) process.<br>
 * Extract: Downloaded Excel files from OWID’s public data portal.
-* Transform: Filtered for: Norway, Sweden, Denmark, Finland
+* Transform: Filtered for Norway, Sweden, Denmark, Finland
 * Load: Loaded cleaned tables into Power BI
+
+The next step was to choose the appropriate chart, data and formulas to accurately display the result. 
+* Appropriate chart: Used Designing Effective Tables and Graphs by Stephen Few as a guide.
+* Data: Based on the question I needed to answer I selected the relevant country, time, and renewable energy variables which were then aggregated to support comparison and <br> trend analysis.
+* Formulas: I created calculated measures to aggregate total electricity generation, separate renewable and non-renewable output, and calculate the share of renewables in <br> total electricity production, enabling clear comparison across countries and over time.
 
 
 
