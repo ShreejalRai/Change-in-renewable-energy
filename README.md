@@ -41,10 +41,9 @@ The next step was to choose the appropriate chart, data and formulas to accurate
 
 After creating the dashboard, I wrote a report that addressed the main analytical questions by interpreting the visualisations and translating the results into clear insights. <br>
 
-:books: What I Learned
----
 :seedling: Overall Growth
 ---
+This project strengthened my ability to analyze complex datasets, structure data for meaningful comparisons, and create dashboards that clearly communicate insights. I also improved my data storytelling skills, learning to turn raw numbers into actionable findings. Overall, it boosted my confidence in making analytical decisions and presenting results in a professional, understandable way.
 :runner: Running the Project
 ---
 :movie_camera: Video
