@@ -2,8 +2,8 @@
 An interactive dashboard to show changes in different forms of renewable energy found in Norway. 
 
 :star: Tools
-*Power BI
-*Excel
+* Power BI
+* Excel
 
 :bar_chart: Description of Analysis.
 First analysis shows renewable share of four Scandinavian countries.
