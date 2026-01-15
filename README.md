@@ -41,7 +41,7 @@ The next step was to choose the appropriate chart, data and formulas to accurate
 
 After creating the dashboard, I wrote a report that addressed the main analytical questions by interpreting the visualisations and translating the results into clear insights. <br>
 
-:books: <b>What I Learned</b>
+:books: What I Learned
 ---
 
 
