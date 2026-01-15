@@ -21,7 +21,6 @@ The slicer can be used to change between the four available Scandanavian countri
 * Finland
 * Sweden
 * Norway
----
 
 :man_cook: The process <br>
 ---
