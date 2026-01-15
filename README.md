@@ -41,6 +41,25 @@ The next step was to choose the appropriate chart, data and formulas to accurate
 
 After creating the dashboard, I wrote a report that addressed the main analytical questions by interpreting the visualisations and translating the results into clear insights. <br>
 
+:books: What I Learned
+What I Learned
+Through this project, I learned how to turn raw energy data into actionable insights, design dashboards that are clear and engaging, and communicate trends effectively. I improved my skills in data aggregation, visualization, storytelling, and analytical decision-making.
+
+Interactive Tooltips
+I learned to show detailed values without cluttering visuals, improving clarity and user focus.
+
+Slicers and Filters
+I learned to enable flexible exploration by structuring the dataset and connecting it to filters.
+
+Visual Highlighting
+I learned to emphasize key data points like Norway to make comparisons obvious.
+
+Predictive Analysis / Forecasting
+I learned to model trends and anticipate future values, interpreting patterns and configuring forecasting for reliability.
+
+DAX Formulas
+I learned to calculate totals, separate renewable and non-renewable generation, and compute shares, ensuring accurate results across visuals.
+
 :seedling: Overall Growth
 ---
 This project strengthened my ability to analyze complex datasets, structure data for meaningful comparisons, and create dashboards that clearly communicate insights. I also improved my data storytelling skills, learning to turn raw numbers into actionable findings. Overall, it boosted my confidence in making analytical decisions and presenting results in a professional, understandable way.
