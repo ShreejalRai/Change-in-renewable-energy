@@ -12,10 +12,10 @@ An interactive dashboard to show changes in different forms of renewable energy 
 * Fourth analysis is a prediction/forecast for Norway's energy generation to the year of 2030.
 
 :dart: Slicer
-The slicer can be used to change between the four available Scandanavian countries. <br> 
+The slicer can be used to change between the four available Scandanavian countries. The slicer only changes values you see in the first analysis.<br> 
 * Denmark
 * Finland
 * Sweden
 * Norway <br>
-The slicer only changes values you see in the first analysis.
+
 
