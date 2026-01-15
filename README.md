@@ -31,8 +31,8 @@ Then, I looked for resources where I could get said data. This was harder than e
 
 This started the ETL (Extract, Transform and Load) process.<br>
 * <b>Extract</b>: Downloaded Excel files from OWID’s public data portal.
-* Transform: Filtered for Norway, Sweden, Denmark, Finland
-* Load: Loaded cleaned tables into Power BI
+* <b>Transform</b>: Filtered for Norway, Sweden, Denmark, Finland
+* <b>Load</b>: Loaded cleaned tables into Power BI
 
 The next step was to choose the appropriate chart, data and formulas to accurately display the result. 
 * Appropriate chart: Used Designing Effective Tables and Graphs by Stephen Few as a guide.
