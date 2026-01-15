@@ -27,7 +27,7 @@ The slicer can be used to change between the four available Scandanavian countri
 ---
 I started by looking for countries with the oldest recorded data for renewable energy so I had ample of data to work with, this led me to Norway. <br> <br>
 
-Then, I looked for resources where I could get said data. This was harder than expected as I everything I came across was locked behind a paywall unitl I asked a friend who told me about a website called "[Our world in data]" (https://ourworldindata.org/), I would find all necessary data in the format of an excel file for not just Scandanavian countries but the whole world. <br><br>
+Then, I looked for resources where I could get said data. This was harder than expected as I everything I came across was locked behind a paywall unitl I asked a friend who told me about a website called ["Our world in data"](https://ourworldindata.org/), I would find all necessary data in the format of an excel file for not just Scandanavian countries but the whole world. <br><br>
 
 This started the ETL (Extract, Transform and Load) process.<br>
 * Extract: Downloaded Excel files from OWID’s public data portal.
