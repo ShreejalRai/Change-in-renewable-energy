@@ -49,13 +49,13 @@ This project strengthened my ability to analyze complex datasets, structure data
 ---
 The repository includes the Power BI dashboard file (.pbix) along with the Excel datasets used in the analysis. To explore the dashboard:
 
-Download the repository to your local machine.
+1. Download the repository to your local machine.
 
-Open the .pbix file using Power BI Desktop (free download from Microsoft if needed).
+2. Open the .pbix file using Power BI Desktop (free download from Microsoft if needed).
 
-Ensure the included Excel datasets are in the same folder or properly linked to the Power BI file.
+3. Ensure the included Excel datasets are in the same folder or properly linked to the Power BI file.
 
-Interact with the visuals to explore trends, comparisons, and insights across countries.
+4. Interact with the visuals to explore trends, comparisons, and insights across countries.
 
 Note: All data used in the dashboard is included, so no external data connection is required.
 
