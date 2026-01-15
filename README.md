@@ -49,7 +49,7 @@ Through this project, I learned how to turn raw energy data into actionable insi
 I learned to show detailed values without cluttering visuals, improving clarity and user focus.
 
 :mag: Slicers and Filters<br>
-I learned to enable flexible exploration by structuring the dataset and connecting it to filters.
+Enabling slicers and filters, the dashboard allowed flexible exploration, letting viewers focus on specific countries, time periods, or energy sources.
 
 :dart: Visual Highlighting<br>
 I learned to emphasize key data points like Norway to make comparisons obvious.
@@ -58,7 +58,7 @@ I learned to emphasize key data points like Norway to make comparisons obvious.
 I learned to model trends and anticipate future values, interpreting patterns and configuring forecasting for reliability.
 
 🧮 DAX Formulas<br>
-I learned to calculate totals, separate renewable and non-renewable generation, and compute shares, ensuring accurate results across visuals.
+By creating DAX formulas, totals, renewable/non-renewable separation, and shares were calculated accurately across visuals, ensuring reliable results.
 
 :seedling: Overall Growth
 ---
