@@ -25,17 +25,17 @@ The slicer can be used to change between the four available Scandinavian countri
 
 :man_cook: The Process <br>
 ---
-I started by looking for countries with the oldest recorded data for renewable energy, so I had ample of data to work with. This led me to Norway. <br> <br>
+I started by looking for countries with the oldest recorded data for renewable energy, so I had ample data to work with. This led me to Norway. <br> <br>
 
 Then, I looked for resources where I could get said data. This was harder than expected as everything I came across was locked behind a paywall until I asked a friend who told me about a website called ["Our world in data"](https://ourworldindata.org/), I would find all necessary data in the format of an excel file for not just Scandinavian countries but the whole world. <br><br>
 
-This started the ETL (Extract, Transform and Load) process.<br>
+This started the ETL (Extract, Transform, Load) process.<br>
 * <b>Extract</b>: Downloaded Excel files from OWID’s public data portal.
 * <b>Transform</b>: Filtered for Norway, Sweden, Denmark, Finland
 * <b>Load</b>: Loaded cleaned tables into Power BI
 
 The next step was to choose the appropriate chart, data and formulas to accurately display the result. 
-* Appropriate chart: Used Designing Effective Tables and Graphs by Stephen Few as a guide.
+* Appropriate chart: Used 'Designing Effective Tables and Graphs' by Stephen Few as a guide.
 * Data: Based on the question I needed to answer I selected the relevant country, time, and renewable energy variables which were then aggregated to support comparison and trend analysis.
 * Formulas: I created calculated measures to aggregate total electricity generation, separate renewable and non-renewable output, and calculate the share of renewables in total electricity production, enabling clear comparison across countries and over time.
 
