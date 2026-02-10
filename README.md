@@ -80,4 +80,9 @@ Note: All data used in the dashboard is included, so no external data connection
 
 :movie_camera: Video
 ---
+To comply with GitHub’s file size limits for media previews, this video is a shortened showcase. For a more detailed experience, please download the dashboard and explore it at your leisure.
+
+https://github.com/user-attachments/assets/023da538-7450-4430-92fb-26f38ddbf9ae
+
+
 
